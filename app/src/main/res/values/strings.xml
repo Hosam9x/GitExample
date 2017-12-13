@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">My Application</string>
+=======
+    <string name="app_name">firstapp</string>
+>>>>>>> 6f5b97b5cb222d24af90fd0066ed42edca207e20
 </resources>

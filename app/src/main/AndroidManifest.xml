@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.fsapp.hosam.myapplication">
+=======
+    package="com.fsapp.hosam.firstapp">
+>>>>>>> 6f5b97b5cb222d24af90fd0066ed42edca207e20
 
     <application
         android:allowBackup="true"

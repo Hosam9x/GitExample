@@ -3,7 +3,11 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
+<<<<<<< HEAD
         applicationId "com.fsapp.hosam.myapplication"
+=======
+        applicationId "com.fsapp.hosam.firstapp"
+>>>>>>> 6f5b97b5cb222d24af90fd0066ed42edca207e20
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1
